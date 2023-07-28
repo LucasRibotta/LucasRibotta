@@ -1,4 +1,4 @@
-## <div align="center">I'm Lucas Ribottaa full-time full-stack developer 👨‍💻 working remotely since 2023 🚀 </div>
+## <div align="center">I'm Lucas Ribotta full-time full-stack developer 👨‍💻 working remotely since 2023 🚀 </div>
 
 
 - 🔭 I’m currently working on [Parcels app](https://parcelas.vercel.app/)  
