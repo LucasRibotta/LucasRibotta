@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Nuxt and Microservices
 
-- ❓ You can Email Me Through [Here](lucasribotta15@gmail.com)
+- ❓ You can Email Me Through [Here](mailto:lucasribotta15@gmail.com)
 
 - ⚡ Fun fact: I use tabs over spaces 
 
@@ -57,7 +57,6 @@
 
 ## Connect with me
 <div align="center">
-
 <a href="https://linkedin.com/in/lucas-ribotta" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
