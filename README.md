@@ -61,7 +61,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://portfolio-lucas-ribotta.vercel.app/" target="_blank">
-<img src=https://img.icons8.com/?size=512&id=naDnVpQ3BNkR&format=png alt=portfolio style="margin-bottom: 5px;" />
+<img src=https://e7.pngegg.com/pngimages/658/673/png-clipart-electronic-portfolio-career-portfolio-education-project-portfolio-management-portfolio-brown-rectangle.png alt=portfolio style="margin-bottom: 5px;" />
 </a>   
 </div>  
 
