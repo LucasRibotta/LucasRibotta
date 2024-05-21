@@ -60,7 +60,7 @@
 <a href="https://linkedin.com/in/lucas-ribotta" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://portfolio-lucas-ribotta.vercel.app/" target="_blank">
+<a href="https://lucasr-dev.vercel.app/" target="_blank">
 <img src=https://res.cloudinary.com/parcelas/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1690777445/portfolio_ehigft.svg style="margin-bottom: 5px;" />
 </a>   
 </div>  
