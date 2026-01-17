@@ -70,24 +70,6 @@ Parcel delivery e-commerce platform
 - **Tech:** Next.js, Redux, TypeScript, Node.js, MongoDB, Google Maps API
 - **Features:** Dashboard, real-time tracking, location services
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasRibotta7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRibotta7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasRibotta7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🌍 Languages
 
 - 🇪🇸 **Spanish:** Native
