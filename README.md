@@ -1,111 +1,191 @@
-# 👋 Hi, I'm Lucas Ribotta
+# Hi, I'm Lucas Ribotta 👋
 
-## 🚀 Mobile Front-End Developer | React Native | Flutter | React
+## Mobile Product Engineer
 
-Senior-level developer specializing in **cross-platform mobile applications** with a strong foundation in modern web technologies. Passionate about building scalable, high-performance solutions and pushing the boundaries of mobile development.
+I build and evolve mobile products with **React Native, Expo, TypeScript, and Flutter**, working across architecture, product decisions, performance, and production delivery.
 
----
+I enjoy understanding products as complete systems — from the user problem and technical architecture to implementation, release, and long-term evolution.
 
-### 💼 What I'm Currently Working On
+📍 Córdoba, Argentina  
+🌎 Open to remote opportunities
 
-- 🏢 **OdaClick** - Leading mobile app development with React Native (Expo) & Flutter
-- 💼 **Global View** - Maintaining and upgrading backoffice systems and mobile apps (Freelance)
-- 🚀 **Orisen** - Co-founding a startup creating assistive technology for visually impaired individuals
-
----
-
-### 🎯 Current Focus
-
-- 📱 Mastering **Flutter** advanced patterns and **React Native** performance optimization
-- 🏗️ Implementing **Clean Architecture** principles in mobile applications
-- 🔄 Exploring **state management** solutions (Zustand, Tanstack Query, Riverpod)
-- 🎨 Enhancing **UI/UX** design skills with Figma
+[Portfolio](https://lucasr-dev.vercel.app/en) ·
+[LinkedIn](https://linkedin.com/in/lucas-ribotta) ·
+[Email](mailto:lucasribotta15@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+## What I work on
 
-#### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 📱 Mobile Engineering
 
-#### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Cross-platform mobile applications for **iOS and Android**, with a focus on maintainability, performance, and reliable production delivery.
 
-#### 📊 State Management
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+### 🏗️ Architecture & Product Engineering
 
-#### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+I work with modular architectures, clean separation of responsibilities, offline-first systems, API integrations, and technical decisions designed for long-term product evolution.
 
-#### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+### 🤝 Technical Ownership
+
+I like working beyond individual tickets — understanding the business problem, evaluating trade-offs, collaborating with product/design/backend teams, and taking solutions from definition to production.
+
+### 🤖 AI-assisted Engineering
+
+I use **Claude Code, Codex, and AI-assisted workflows** for implementation, debugging, architecture exploration, and code review — accelerating development while keeping ownership of technical decisions.
 
 ---
 
-### 📂 Featured Projects
+## Selected Work
 
-#### 🛍️ [Porfadato](https://github.com/LucasRibotta7/porfadato)
-E-commerce platform for school supply reuse
-- **Tech:** Next.js, TypeScript, Redux, Tailwind CSS, MySQL
-- **Features:** User authentication, product catalog, checkout system
+### Orisen
 
-#### 📦 [Parcels](https://parcelas.vercel.app/)
-Parcel delivery e-commerce platform
-- **Tech:** Next.js, Redux, TypeScript, Node.js, MongoDB, Google Maps API
-- **Features:** Dashboard, real-time tracking, location services
+**Co-Founder & Tech Lead**
 
-### 🌍 Languages
+Assistive technology focused on improving mobility and independence for visually impaired people.
 
-- 🇪🇸 **Spanish:** Native
-- 🇬🇧 **English:** A2 (Elementary)
+I'm involved in the product and technical development from concept to functional prototype, including:
 
----
+- React Native / Expo
+- Mobile architecture
+- Bluetooth & hardware integration
+- AI experimentation
+- iOS & Android
+- Product design
+- Technical roadmap
 
-### 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-ribotta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasr-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasribotta15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasRibotta7)
-
-</div>
+🔗 [Learn more on my portfolio](https://lucasr-dev.vercel.app/en)
 
 ---
 
-### ⚡ Fun Facts
+### Wyrdvow
 
-- 🎯 I believe in **Clean Architecture** and maintainable code
-- 🔥 Tabs over spaces (yes, I said it!)
-- 🚀 Always learning and exploring new technologies
-- 🤝 Open to collaborating on innovative mobile projects
-- 🎓 Love mentoring and sharing knowledge with other developers
+**Product & Engineering Project — In Development**
+
+An AI-powered narrative RPG where each player forges an oath that changes the fate of their story.
+
+The AI doesn't create the world from scratch — it personalizes how the world responds to who the player decided to become.
+
+Areas I'm exploring through the project:
+
+- Mobile product architecture
+- Narrative systems
+- Generative AI
+- Backend architecture
+- Game development
+- AI-assisted experiences
+
+🔗 [View project](https://lucasr-dev.vercel.app/en)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasRibotta7&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+### Production Mobile Engineering
 
-<div align="center">
-  
-### 💡 "Building the future, one app at a time"
+I currently work on the development and evolution of production mobile applications using **React Native, Expo, TypeScript, and Flutter**.
 
-</div>
+My work includes:
+
+- Mobile architecture
+- REST API integrations
+- Offline-first flows
+- Local persistence
+- Background processes
+- Push notifications
+- Performance optimization
+- EAS builds
+- TestFlight / App Store
+- Google Play releases
+- Product, design, and backend collaboration
+
+---
+
+## Tech Stack
+
+### Mobile
+
+`React Native` · `Expo` · `Flutter` · `iOS` · `Android`
+
+### Languages
+
+`TypeScript` · `JavaScript` · `Dart`
+
+### Frontend
+
+`React` · `Next.js`
+
+### State & Data
+
+`TanStack Query` · `Zustand` · `Redux` · `SQLite`
+
+### Backend & Data
+
+`Node.js` · `REST APIs` · `MySQL` · `PostgreSQL` · `MongoDB`
+
+### Architecture
+
+`Clean Architecture` · `Modular Architecture` · `Offline-first`
+
+### Mobile Delivery
+
+`EAS` · `TestFlight` · `App Store Connect` · `Google Play Console`
+
+### AI Development
+
+`Claude Code` · `Codex` · `AI-assisted workflows`
+
+---
+
+## Experience
+
+### OdaClick
+**Mobile Developer** · Jun 2024 — Present
+
+Building and evolving cross-platform mobile applications with React Native, Expo, TypeScript, and Flutter.
+
+### Orisen
+**Co-Founder & Tech Lead** · 2025 — Present
+
+Leading technical development, mobile architecture, product design, and roadmap for an assistive technology product.
+
+### Global View
+**Mobile & Front-End Developer — Freelance** · Jan 2026 — Jun 2026
+
+Worked on production mobile applications and backoffice systems, including feature development, maintenance, and performance improvements.
+
+---
+
+## What I'm interested in
+
+I'm especially interested in projects involving:
+
+- Mobile product engineering
+- React Native / Expo
+- Mobile architecture
+- AI-powered experiences
+- Developer tooling
+- Assistive technology
+- Game and interactive systems
+
+My long-term direction is toward **Mobile Architecture and technical leadership**, contributing to system design, engineering decisions, and product direction.
+
+---
+
+## Languages
+
+🇪🇸 Spanish — Native  
+🇬🇧 English — B1 Intermediate
+
+---
+
+## Let's connect
+
+If you're building an interesting mobile product, AI-powered experience, or technically ambitious project, feel free to reach out.
+
+📧 **Email:** [lucasribotta15@gmail.com](mailto:lucasribotta15@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/lucas-ribotta](https://linkedin.com/in/lucas-ribotta)
+
+🌐 **Portfolio:** [lucasr-dev.vercel.app](https://lucasr-dev.vercel.app/en)
+
+---
+
+> Building mobile products with ownership — from architecture to production.
